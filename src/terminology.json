@@ -1,0 +1,7 @@
+{
+  "Experience Fit Score": "Overall contextual suitability for the selected need or criteria set.",
+  "Confidence": "Reliability based on signal quality, recency and consistency.",
+  "Trade-off": "A factor that may reduce fit for some users even when the overall score is high.",
+  "Improvement Priority": "A business-facing action area with recurring evidence behind it.",
+  "City Benchmark": "Comparison across equivalent criteria, not a judgment of cultural superiority."
+}

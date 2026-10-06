@@ -1,0 +1,100 @@
+{
+  "color": {
+    "black": {
+      "value": "#000000",
+      "purpose": "Primary identity",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "purpose": "Primary identity",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "ivory": {
+      "value": "#F6F1E6",
+      "purpose": "Editorial readability",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "signal": {
+      "value": "#00C9DC",
+      "purpose": "Technology and active guidance",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "growth": {
+      "value": "#4FC185",
+      "purpose": "Improvement and growth",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "neutral": {
+      "value": "#E7EDF4",
+      "purpose": "Reports and clarity",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    },
+    "pain-point": {
+      "value": "#FF7800",
+      "purpose": "Opportunity and pain point",
+      "source": "Visual Identity pp. 3\u20134",
+      "status": "source-defined"
+    }
+  },
+  "font": {
+    "body": {
+      "value": "Inter, Arial, sans-serif",
+      "status": "source-defined"
+    },
+    "display": {
+      "value": "\"Source Serif Pro\", Georgia, serif",
+      "status": "provisional-reconciliation"
+    }
+  },
+  "space": {
+    "1": {
+      "value": "4px",
+      "status": "implementation-proposal"
+    },
+    "2": {
+      "value": "8px",
+      "status": "implementation-proposal"
+    },
+    "3": {
+      "value": "12px",
+      "status": "implementation-proposal"
+    },
+    "4": {
+      "value": "16px",
+      "status": "implementation-proposal"
+    },
+    "6": {
+      "value": "24px",
+      "status": "implementation-proposal"
+    },
+    "8": {
+      "value": "32px",
+      "status": "implementation-proposal"
+    },
+    "12": {
+      "value": "48px",
+      "status": "implementation-proposal"
+    },
+    "16": {
+      "value": "64px",
+      "status": "implementation-proposal"
+    }
+  },
+  "radius": {
+    "card": {
+      "value": "16px",
+      "status": "implementation-proposal"
+    },
+    "control": {
+      "value": "8px",
+      "status": "implementation-proposal"
+    }
+  }
+}

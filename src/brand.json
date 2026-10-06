@@ -1,0 +1,29 @@
+{
+  "name": "DarX",
+  "category": "Experience Intelligence",
+  "tagline": "Beyond ratings. Find what fits.",
+  "origin": "Born in Abu Dhabi. Built for the world.",
+  "purpose": "To make complex experience information meaningful, comparable and useful for every person, business and city.",
+  "mission": "To transform fragmented ratings, reviews, data and feedback into impartial, explainable intelligence that helps people choose better and organizations improve faster.",
+  "vision": "One universal standard for how experience quality is measured. Universal in method. Local in judgement.",
+  "promise": "We turn many signals into the right fit, the right action and the right benchmark, powered by the principles of Emotional Infrastructure.",
+  "traits": [
+    "Impartial",
+    "Objective",
+    "Attuned",
+    "Discerning",
+    "Global",
+    "Actionable"
+  ],
+  "outcomes": {
+    "FIND": "Discover suitability by need, mood, criteria and context.",
+    "IMPROVE": "Turn feedback into focused, evidence-led action.",
+    "CITY BENCHMARK": "Compare experience quality across equivalent criteria."
+  },
+  "units": {
+    "DarX Intelligence": "Measure: data intelligence, benchmarking and reports.",
+    "DarX Strategy": "Shape: strategy, policy, transformation and advisory.",
+    "DarX Labs": "Advance: AI innovation, behavioural science and applied research.",
+    "DarX Institute": "Define: standards, certification, research and thought leadership."
+  }
+}

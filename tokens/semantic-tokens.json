@@ -1,0 +1,16 @@
+{
+  "light": {
+    "background": "ivory",
+    "surface": "white",
+    "text": "black",
+    "border": "black",
+    "accent": "signal"
+  },
+  "dark": {
+    "background": "black",
+    "surface": "black",
+    "text": "white",
+    "border": "neutral",
+    "accent": "signal"
+  }
+}

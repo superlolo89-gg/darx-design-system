@@ -1,0 +1,32 @@
+{
+  "ExperienceFitScore": {
+    "required": [
+      "name",
+      "score",
+      "confidence",
+      "criteria",
+      "reasons",
+      "tradeOffs"
+    ],
+    "scoreScale": "0\u2013100 demonstration scale; methodology approval required",
+    "confidence": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "requireExplanation": true
+  },
+  "Button": {
+    "variants": [
+      "primary",
+      "secondary"
+    ]
+  },
+  "Confidence": {
+    "levels": [
+      "low",
+      "medium",
+      "high"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "src/brand.json",
+  "version": "0.1.0",
+  "status": "review-ready implementation",
+  "tokens": "tokens/design-tokens.json",
+  "semantics": "tokens/semantic-tokens.json",
+  "terminology": "src/terminology.json",
+  "components": "components/index.js",
+  "decisions": "docs/decisions.md",
+  "reference": "reference"
+}
