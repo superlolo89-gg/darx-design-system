@@ -1,0 +1,3 @@
+# DarX build instructions
+
+Read README.md, docs/decisions.md, tokens/design-tokens.json, src/brand.json, src/terminology.json and brand/messaging.md before changes. Source-defined, provisional and proposed values must stay distinguishable. Reuse components/index.js. Never hardcode brand colors in product CSS. Never invent assets or fonts. Always pair fit with confidence, criteria, explanations and trade-offs. Separate rating from suitability. No universal best claims. No Claude plugin is used. Run npm run check after source changes. Generated dist files must be rebuilt, never hand-edited. Do not turn illustrative data into factual business recommendations.
